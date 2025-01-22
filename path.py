@@ -1,0 +1,1 @@
+#(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/aruzhantleukul/.zprofile               eval "$(/opt/homebrew/bin/brew shellenv)"
